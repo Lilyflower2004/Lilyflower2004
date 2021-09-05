@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Lilyflower2004
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Python, JavaScript and Shell
+- 💞️ I’m looking to collaborate on Skueletor
